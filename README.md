@@ -20,34 +20,34 @@ Tools and Libraries used: Python, Jupyter Notebook, Pandas, NumPy, Matplotlib an
 
 **Key Business Questions Addressed**
 
-**1.	Enhance Understanding of Business Performance:**
+**1. Enhance Understanding of Business Performance:**
    
-o	High-Level Metrics Calculation: Defined and calculated crucial metrics such as total revenue, total quantity sold, total products, total categories, total sellers, total locations, and total payment methods.
-o	Customer Acquisition and Retention Analysis: Analyzed the number of new customers acquired each month and customer retention rates on monthly basis.
-o	Revenue Analysis: Assessed the revenue generated from new and existing customers monthly.
+- High-Level Metrics Calculation: Defined and calculated crucial metrics such as total revenue, total quantity sold, total products, total categories, total sellers, total locations, and total payment methods.
+- Customer Acquisition and Retention Analysis: Analyzed the number of new customers acquired each month and customer retention rates on monthly basis.
+- Revenue Analysis: Assessed the revenue generated from new and existing customers monthly.
 
-**2.	Identify Trends and Patterns:**
+**2. Identify Trends and Patterns:**
    
-o	Sales Trends and Seasonality: Identified trends and seasonal patterns in sales and quantities sold by category, location, month, week, day, time, and payment method.
-o	Popular Products and Categories: Determined the most popular products by month, seller, state, and category, and identified the top 10 most expensive products.
+- Sales Trends and Seasonality: Identified trends and seasonal patterns in sales and quantities sold by category, location, month, week, day, time, and payment method.
+- Popular Products and Categories: Determined the most popular products by month, seller, state, and category, and identified the top 10 most expensive products.
 
-**3.	Customer and Seller Segmentation:**
+**3. Customer and Seller Segmentation:**
    
-o	Customer Segmentation: Grouped customers based on the revenue they generate.
-o	Seller Segmentation: Grouped sellers based on the revenue they generate.
+- Customer Segmentation: Grouped customers based on the revenue they generate.
+- Seller Segmentation: Grouped sellers based on the revenue they generate.
 
-**4.	Cross-Selling Opportunities:**
+**4. Cross-Selling Opportunities:**
    
-o	Product Combinations: Identified the top 10 combinations of products that are frequently bought together in each transaction.
+- Product Combinations: Identified the top 10 combinations of products that are frequently bought together in each transaction.
 
-**5.	Payment Behavior Analysis:**
+**5. Payment Behavior Analysis:**
    
-o	Customer Payment Methods: Analyzed how customers are paying and identified the most used payment channels.
+- Customer Payment Methods: Analyzed how customers are paying and identified the most used payment channels.
 
-**6.	Customer Satisfaction Insights:**
+**6. Customer Satisfaction Insights:**
 	
-o	Category and Product Ratings: Identified the top 10 highest and lowest-rated categories and products.
-o	Average Ratings: Determined the average ratings by location, seller, product, category, and month.
+- Category and Product Ratings: Identified the top 10 highest and lowest-rated categories and products.
+- Average Ratings: Determined the average ratings by location, seller, product, category, and month.
 
 **Insights:**
 
@@ -61,10 +61,10 @@ o	Average Ratings: Determined the average ratings by location, seller, product, 
 
 **Recommendations**
 
-1.Focus on High-Performing Categories: Increase inventory and marketing efforts for top-performing categories like "Health & Beauty" and "Sports-Leisure" to boost sales.
+1. Focus on High-Performing Categories: Increase inventory and marketing efforts for top-performing categories like "Health & Beauty" and "Sports-Leisure" to boost sales.
 
-2.Improve Low-Rated Products: Investigate and address issues in low-rated product categories to improve customer satisfaction and reduce negative reviews.
+2. Improve Low-Rated Products: Investigate and address issues in low-rated product categories to improve customer satisfaction and reduce negative reviews.
 
-3.Personalized Marketing: Develop targeted marketing campaigns for frequent buyers and high spenders to increase customer loyalty and repeat purchases.
+3. Personalized Marketing: Develop targeted marketing campaigns for frequent buyers and high spenders to increase customer loyalty and repeat purchases.
 
-4.Geographic Targeting: Allocate more marketing resources to high-density customer regions to maximize reach and sales impact.
+4. Geographic Targeting: Allocate more marketing resources to high-density customer regions to maximize reach and sales impact.
