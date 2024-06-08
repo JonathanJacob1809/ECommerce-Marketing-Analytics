@@ -55,9 +55,9 @@ Tools and Libraries used: Python, Jupyter Notebook, Pandas, NumPy, Matplotlib an
 
 2. Customer Satisfaction: High satisfaction levels in the "Furniture & Decor" and "Computers & Tablets" categories suggest that these products meet customer expectations.
 
-3.Purchasing Patterns: Frequent buyers and high spenders represent valuable customer segments that should be targeted with personalized marketing strategies.
+3. Purchasing Patterns: Frequent buyers and high spenders represent valuable customer segments that should be targeted with personalized marketing strategies.
   
-4. Geographic Focus: Certain regions such as Goa, UP and Punjab show higher purchasing power and should be the focus of targeted marketing campaigns.
+4. Geographic Focus: Certain regions such as Goa, Uttar Pradesh and Punjab show higher purchasing power and should be the focus of targeted marketing campaigns.
 
 **Recommendations**
 
